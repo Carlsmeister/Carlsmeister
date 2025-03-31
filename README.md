@@ -1,8 +1,6 @@
-<!-- Intro & Title -->
 <h1 align="center">Hi there 👋, I'm Carl</h1>
 <h3 align="center">A Passionate Backend Developer student from Sweden</h3>
 
-<!-- Short bio or "about me" section -->
 <p align="center">
   I'm a <strong>Software Development</strong> 🧑‍🎓 based in Malmö, Sweden (Year 1).<br/>
   Currently focusing on <strong>backend</strong> development at Malmö University, while sharpening my <strong>front-end</strong> skills privately.
@@ -12,10 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&width=500&duration=5000&color=00C04B&lines=    Software+Developer+Student;  Back-end  Front-end  Database; Current+Project:+Smart+Calendar" 
   alt="Typing SVG" style="display:block; margin:0 auto;" />
 </div>
-
-
-
-
 
 ---
 
@@ -76,7 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlsmeister&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="display: inline-block; margin: 5px;"/>
 </div>
 
-
 ---
 
 ## Current Project
@@ -96,7 +89,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote"/>
 </div>
 
-
 ---
 
 ## Connect with Me
@@ -112,10 +104,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlsmeister/Carlsmeister/output/snake.svg" />
@@ -125,7 +113,5 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Carlsmeister&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
-
-
 
 ---
