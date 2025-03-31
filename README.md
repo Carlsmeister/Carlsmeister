@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/profile-banner.png" alt="Profile Banner" width="600"/>
-</p>
+<img src="images/profile-banner.png" alt="Profile Banner" width="100%"/>
 
 <h1 align="center">Hi there 👋, I'm Carl</h1>
 <h3 align="center">A Passionate Backend Developer Student from Sweden</h3>
