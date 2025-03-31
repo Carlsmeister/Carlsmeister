@@ -116,9 +116,15 @@
 
 ###
 
-<!-- You could also add a fancy footer with a visitor count or profile view counter -->
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlsmeister/Carlsmeister/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlsmeister/Carlsmeister/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Carlsmeister/Carlsmeister/output/github-snake.svg" alt="GitHub Snake Animation" />
+  </picture>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Carlsmeister&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
+
 
 ---
