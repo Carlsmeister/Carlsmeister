@@ -48,7 +48,9 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Smart Calendar** | A user-friendly calendar with integrated to-do lists and task management. | Spring Boot, PostgreSQL, React | [GitHub](https://github.com/slidecart/G19SmartCalender) |
+| **Smart Calendar** | A user-friendly calendar with integrated to-do lists and task management. | Spring Boot, PostgreSQL, React | [GitHub](https://github.com/slidecart/G19SmartCalender) 
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -67,7 +69,7 @@
 
 ## Current Project: *SmartCalendar*
 
-### [Smart Calendar](https://github.com/slidecart/G19SmartCalender)
+### [SmartCalendar](https://github.com/slidecart/G19SmartCalender)
 - **Calendar** with an intuitive UI
 - **ToDo-list** integrated for daily tasks
 - **Motivational** approach so users enjoy planning
