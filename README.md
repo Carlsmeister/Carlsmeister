@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&width=500&duration=5000&color=00C04B&lines=    Software+Developer+Student;  Back-end  Front-end  Database; Current+Project:+SmartCalendar" 
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&width=500&duration=5000&color=00C04B&lines=    Software+Developer+Student;  Backend | Frontend | Database; Current+Project:+SmartCalendar" 
   alt="Typing SVG" style="display:block; margin:0 auto;" />
 </div>
 
