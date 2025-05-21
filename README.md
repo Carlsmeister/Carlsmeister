@@ -76,7 +76,7 @@
 - **Calendar** with an intuitive UI
 - **ToDo-list** integrated for daily tasks
 - **Motivational** approach so users enjoy planning
-- *Progress*: Currently in the development phase, focusing on backend integration with Spring Boot and PostgreSQL.
+- *Progress*: Currently in the development phase, focusing on implementing frontend features and enchancing a user-friendly UI design.
 
 ---
 
