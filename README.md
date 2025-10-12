@@ -4,12 +4,12 @@
 <h3 align="center">A Passionate Backend Developer Student from Sweden</h3>
 
 <p align="center">
-  I'm a <strong>Software Development</strong> student 🧑‍🎓 based in Malmö, Sweden (Year 1).<br/>
+  I'm a <strong>Software Development</strong> student 🧑‍🎓 based in Malmö, Sweden (Year 2).<br/>
   Currently focusing on <strong>backend</strong> development at Malmö University, while sharpening my <strong>front-end</strong> skills privately.
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&width=500&duration=5000&color=00C04B&lines=    Software+Developer+Student;  Backend | Frontend | Database; Current+Project:+SmartCalendar" 
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&width=500&duration=5000&color=00C04B&lines=    Software+Developer+Student;  Backend | Frontend | Database; Current+Project:+Strive" 
   alt="Typing SVG" style="display:block; margin:0 auto;" />
 </div>
 
@@ -17,12 +17,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on my **Smart Calendar** project, aiming to combine:
-  - A user-friendly **Calendar**
-  - A robust **ToDo-list**
-  - Task management with minimal friction
-- 🌱 I’m learning **Spring Boot**, **Node.js**, **React**, and exploring **Cloud Services** for deployment.
-- 💬 Ask me about **Java**, **PostgreSQL**, or non-tech topics like **training** or **travel**.
+- 🏋️‍♂️ I’m currently developing **Strive**, a modern Android fitness app designed to help users:
+  - Log **gym workouts** with sets, reps, and weights
+  - Track **runs** in real time with GPS
+  - Build custom **workout templates** and view detailed **training history**
+- 🌱 I’m currently learning (by doing) **Kotlin** using **Jetpack Compose**, **Room**, **Hilt**, and **MVVM architecture** while i'm building my app **Strive**.
+- 💬 Ask me about e.g. **Java**, **PostgreSQL**, or non-tech topics like **training** or **travel**.
 - ⚡ Fun fact: I love nature, hiking, working out, and gaming in my spare time.
 - ⚠️ **Be cautious!** I'm quite a social person.
 
@@ -32,6 +32,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -40,9 +41,10 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" alt="React" />
   <img src="https://custom-icon-badges.demolab.com/badge/IntelliJ%20IDEA-A112EE?logo=intellij_idea&style=for-the-badge" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio" />
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge" alt="VSCode" />
   <img src="https://img.shields.io/badge/MacOS-f0f0f0?logo=apple&logoColor=black&style=for-the-badge" alt="macOS" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white&style=for-the-badge" alt="macOS" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white&style=for-the-badge" alt="Windows" />
 </p>
 
 ---
@@ -51,7 +53,9 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Smart Calendar** | A user-friendly calendar with integrated to-do lists and task management. | Spring Boot, PostgreSQL, React | [GitHub](https://github.com/slidecart/G19SmartCalender) 
+| **Smart Calendar** | A user-friendly calendar with integrated to-do lists and task management. | Spring Boot • PostgreSQL • React | [GitHub](https://github.com/G19MAU/SmartCalendar)
+| **Strive - Fitness App** | A privacy-friendly fitness app for Android that combines gym logging and GPS-based running in a cohesive, mobile-friendly interface. | Kotlin • Jetpack Compose • Room | [GitHub](https://github.com/Carlsmeister/Strive)
+
 
 ---
 
@@ -70,13 +74,17 @@
 
 ---
 
-## Current Project: *SmartCalendar*
+## Current Project: *Strive - Fitness App*
 
-### [SmartCalendar](https://github.com/slidecart/G19SmartCalender)
-- **Calendar** with an intuitive UI
-- **ToDo-list** integrated for daily tasks
-- **Motivational** approach so users enjoy planning
-- *Progress*: Currently in the development phase, focusing on implementing frontend features and enchancing a user-friendly UI design.
+### [Strive - Fitness App](https://github.com/Carlsmeister/Strive)
+- **Workout Tracker** with a clean, motivating UI
+- **Custom Templates** for building and saving personalized training plans
+- **Set & Weight Logging** for precise performance tracking
+- **GPS Run Tracking** to monitor distance, pace, and duration in real time
+- **History Overview** to view past workouts and follow long-term progress
+- **Offline Mode** — all data stored locally for full privacy and control
+  
+- *Progress:* Currently in the development phase, focusing on polishing the workout flow, refining UI elements, and improving data visualization for user progress.
 
 ---
 
