@@ -17,11 +17,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🏋️‍♂️ I’m currently developing **Strive**, a modern Android fitness app designed to help users:
-  - Log **gym workouts** with sets, reps, and weights
-  - Track **runs** in real time with GPS
-  - Build custom **workout templates** and view detailed **training history**
-- 🌱 I’m currently learning (by doing) **Kotlin** using **Jetpack Compose**, **Room**, **Hilt**, and **MVVM architecture** while i'm building my app **Strive**.
+- 💬 I’m currently developing **ChifferChat**, a secure and modern **JavaFX-based chat application** that focuses on:
+  - Real-time **messaging** between multiple clients
+  - End-to-end **encryption** using **RSA** and **AES**
+  - Modular architecture with **client–server communication**
+  - A sleek and responsive **JavaFX UI**
+- 🌱 I’m currently learning (by doing) **JavaFX**, **multithreading**, and **cryptography** — building **ChifferChat** using **Java**, **Socket programming**, and **secure message handling**.
 - 💬 Ask me about e.g. **Java**, **PostgreSQL**, or non-tech topics like **training** or **travel**.
 - ⚡ Fun fact: I love nature, hiking, working out, and gaming in my spare time.
 - ⚠️ **Be cautious!** I'm quite a social person.
@@ -55,6 +56,7 @@
 |---------|-------------|------------|------|
 | **Smart Calendar** | A user-friendly calendar with integrated to-do lists and task management. | Spring Boot • PostgreSQL • React | [GitHub](https://github.com/G19MAU/SmartCalendar)
 | **Strive - Fitness App** | A privacy-friendly fitness app for Android that combines gym logging and GPS-based running in a cohesive, mobile-friendly interface. | Kotlin • Jetpack Compose • Room | [GitHub](https://github.com/Carlsmeister/Strive)
+| **ChifferChat - Encrypted Chat App** | A modern, encrypted desktop chat application built with JavaFX, enabling secure client–server communication with AES/RSA encryption. | Java • JavaFX • Socket Programming • Cryptography | [GitHub](https://github.com/Carlsmeister/ChifferChat)
 
 
 ---
@@ -74,17 +76,16 @@
 
 ---
 
-## Current Project: *Strive - Fitness App*
+## Current Project: *ChifferChat – Encrypted Chat App*
 
-### [Strive - Fitness App](https://github.com/Carlsmeister/Strive)
-- **Workout Tracker** with a clean, motivating UI
-- **Custom Templates** for building and saving personalized training plans
-- **Set & Weight Logging** for precise performance tracking
-- **GPS Run Tracking** to monitor distance, pace, and duration in real time
-- **History Overview** to view past workouts and follow long-term progress
-- **Offline Mode** — all data stored locally for full privacy and control
-  
-- *Progress:* Currently in the development phase, focusing on polishing the workout flow, refining UI elements, and improving data visualization for user progress.
+### [ChifferChat – Secure JavaFX Chat](https://github.com/Carlsmeister/ChifferChat)
+- **End-to-end Encryption** using RSA for key exchange and AES for message encryption  
+- **Multi-client Messaging** through a dedicated Java server  
+- **Modern UI** with JavaFX, custom styles, and dynamic components  
+- **Thread-safe Communication** with synchronized message handling  
+- **Future Goals:** confiugre a database, implement user authentication, message history, and file sharing  
+
+- *Progress:* Currently developing the encryption workflow and message exchange between clients, while refining the GUI and improving overall UX.
 
 ---
 
