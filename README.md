@@ -64,9 +64,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlsmeister&show_icons=true&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="350" style="display: inline-block; margin: 5px;"/>
+  <img src="https://github-readme-stats-carlsmeister.vercel.app/api?username=Carlsmeister&show_icons=true&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="350" style="display: inline-block; margin: 5px;"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Carlsmeister&theme=shadow_green&hide_border=false" alt="Streak Stats" width="371" style="display: inline-block; margin: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlsmeister&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" style="display: inline-block; margin: 5px;"/>
+  <img src="https://github-readme-stats-carlsmeister.vercel.app/api/top-langs/?username=Carlsmeister&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" style="display: inline-block; margin: 5px;"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlsmeister/Carlsmeister/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlsmeister/Carlsmeister/output/snake.svg" />
