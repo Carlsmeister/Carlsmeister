@@ -14,6 +14,7 @@ carl@malmo:~$ cat now.txt
 → Intern @ Cenario: AI-first development
 → Teaching assistant: grading programming assignments
 → Building a local-first AI system for career documents (Spring AI + Ollama)
+→ Starting a rebuild of Strive, my training app: iPhone and Android from one Kotlin codebase
 
 carl@malmo:~$ cat history.txt
 Licensed real-estate agent (2023–24) → software developer. I still like talking to people.
@@ -70,7 +71,7 @@ Upload a CV, get it analysed by a team of local AI agents. **Nothing leaves your
 ## `> featured`
 
 <p align="center">
-  <a href="https://github.com/Carlsmeister/mobile-exercise-app-kotlin-strive"><img src="https://github-readme-stats-carlsmeister.vercel.app/api/pin/?username=Carlsmeister&repo=mobile-exercise-app-kotlin-strive&theme=shadow_green&description_lines_count=3" alt="Strive"/></a>
+  <a href="https://github.com/Carlsmeister/strive"><img src="https://github-readme-stats-carlsmeister.vercel.app/api/pin/?username=Carlsmeister&repo=strive&theme=shadow_green&description_lines_count=3" alt="Strive"/></a>
   <a href="https://github.com/Carlsmeister/java-encryption-chatapp-chifferchat"><img src="https://github-readme-stats-carlsmeister.vercel.app/api/pin/?username=Carlsmeister&repo=java-encryption-chatapp-chifferchat&theme=shadow_green&description_lines_count=3" alt="ChifferChat"/></a>
   <a href="https://github.com/G19MAU/SmartCalendar"><img src="https://github-readme-stats-carlsmeister.vercel.app/api/pin/?username=G19MAU&repo=SmartCalendar&theme=shadow_green&description_lines_count=3" alt="SmartCalendar"/></a>
   <a href="https://github.com/Carlsmeister/wikicap-springboot"><img src="https://github-readme-stats-carlsmeister.vercel.app/api/pin/?username=Carlsmeister&repo=wikicap-springboot&theme=shadow_green&description_lines_count=3" alt="WikiCap"/></a>
