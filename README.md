@@ -117,4 +117,4 @@ Upload a CV, get it analysed by a team of local AI agents. **Nothing leaves your
   <a href="https://www.facebook.com/carl.lundholm.3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003D00,100:00C04B&height=110&section=footer" alt="" width="100%"/>
+<img src="images/footer.svg" alt="" width="100%"/>
