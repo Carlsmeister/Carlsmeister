@@ -20,7 +20,7 @@ carl@malmo:~$ cat history.txt
 Licensed real-estate agent (2023–24) → software developer. I still like talking to people.
 
 carl@malmo:~$ ls ~/interests
-calisthenics  hiking  travel  league-of-legends  tolkien
+ultra running  hiking  travel  gaming  new tech  economics
 
 carl@malmo:~$ sudo warn
 ⚠️  Be cautious! I'm quite a social person.
