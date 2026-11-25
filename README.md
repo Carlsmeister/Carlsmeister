@@ -12,11 +12,11 @@ Carl Lundholm, final-year Systems Developer student at Malmö University, Sweden
 
 carl@malmo:~$ cat now.txt
 → Intern @ Cenario: AI-first development
-→ Teaching assistant: grading programming assignments
 → Building a local-first AI system for career documents (Spring AI + Ollama)
 → Starting a rebuild of Strive, my training app: iPhone and Android from one Kotlin codebase
 
 carl@malmo:~$ cat history.txt
+→ Teaching assistant: grading programming assignments
 Licensed real-estate agent (2023–24) → software developer. I still like talking to people.
 
 carl@malmo:~$ ls ~/interests
